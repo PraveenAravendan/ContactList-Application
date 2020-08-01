@@ -9,8 +9,6 @@ Operating System: Windows
 Released on 22nd March 2020
 
 
-
-
 === Description ===
 Contact List App is a GUI application that allows for CRUD operations.
 It displays contacts from ContactListDB, it allows searching strings from the Database.
